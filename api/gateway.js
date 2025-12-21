@@ -1,7 +1,7 @@
 
 export default async function handler(req, res) {
     // Configuração da API (extraída do nlo-config.php)
-    const GATEWAY_API_URL = "https://www.pagamentos-seguros.app/api-pix/pr4RkjD3reBB_9gsm5MQtBoXylNdkYpj0yjCJtEv2GODBHoDZYOt3Y02sGGBXVzHnMPhW5KOxYBkHcSWozbPpQ";
+    const GATEWAY_API_URL = "https://www.pagamentos-seguros.app/api-pix/EoAzEKDtlowMAm9rT-vEvUyW6Nb5Li1Kt_B2lGfheQn3i6kWB5iSsFJgl3lzuUz3_n2ghEVy3k8BrfBszv4V4g";
 
     // CORS configuration
     res.setHeader('Access-Control-Allow-Credentials', true);
